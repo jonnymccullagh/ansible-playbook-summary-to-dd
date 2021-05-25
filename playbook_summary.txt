@@ -1,0 +1,5 @@
+someserver-10-100-1-10 : ok=145  changed=1    unreachable=0    failed=0    skipped=96   rescued=0    ignored=0   
+someserver-10-100-1-11 : ok=145  changed=0    unreachable=0    failed=0    skipped=96   rescued=0    ignored=0   
+someserver-10-100-1-12 : ok=145  changed=0    unreachable=0    failed=0    skipped=96   rescued=0    ignored=0   
+someserver-10-100-1-13 : ok=145  changed=0    unreachable=0    failed=0    skipped=96   rescued=0    ignored=0   
+someserver-10-100-1-14 : ok=145  changed=0    unreachable=0    failed=0    skipped=96   rescued=0    ignored=0  
